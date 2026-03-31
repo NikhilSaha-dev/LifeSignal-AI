@@ -38,8 +38,5 @@ The system uses a multi-agent pipeline:
 * Increases user engagement
 * Simplifies complex choices
 ---
-## 🎥 Demo Video
-(Add your video link here)
----
 ## 👨‍💻 Developer
 Nikhil Saha
